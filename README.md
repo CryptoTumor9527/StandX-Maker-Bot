@@ -2,6 +2,9 @@
 
 StandX 永续合约交易平台的自动做市机器人,调用官方API+无需钱包私钥+可视化UI版本。
 
+<img width="435" height="807" alt="image" src="https://github.com/user-attachments/assets/1b6c8db0-1b22-4871-8e1a-2f5cfb1cbd41" />
+
+
 ## 👤 作者
 
 **币圈毒瘤**
