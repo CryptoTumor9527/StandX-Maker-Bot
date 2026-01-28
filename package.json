@@ -1,0 +1,25 @@
+{
+  "name": "standx-terminal-bot",
+  "version": "1.0.0",
+  "description": "StandX Maker Bot - Terminal Version with Manual Key Input",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "standx",
+    "trading",
+    "bot",
+    "ed25519"
+  ],
+  "author": "币圈毒瘤 @CryptoTumor9527",
+  "license": "MIT",
+  "dependencies": {
+    "@noble/curves": "^2.0.1",
+    "@noble/hashes": "^2.0.1",
+    "bs58": "^6.0.0",
+    "node-fetch": "^3.3.2",
+    "uuid": "^13.0.0"
+  }
+}
